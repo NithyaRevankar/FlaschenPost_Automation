@@ -1,6 +1,6 @@
 # IONOS Public Billing API Test Suite
 
-This project contains an automated test suite for verifying the IONOS Public Billing API. 
+This project contains an automated test suite for verifying the  Public Billing API. 
 Since direct access to the live API requires business credentials, this suite uses a **local mock server** to simulate the API's behavior.
 
 ## Prerequisites
